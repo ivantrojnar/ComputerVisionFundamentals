@@ -7,9 +7,13 @@ This project aims to train a deep learning model to perform object detection on 
 The project structure is as follows:
 `.
 ├── LI13
+
 │   ├── images
+
 │   ├── result.json
+
 ├── main.py
+
 └── detection.py
 `
 
