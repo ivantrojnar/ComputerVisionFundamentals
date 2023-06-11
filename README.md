@@ -5,7 +5,7 @@ This project aims to train a deep learning model to perform object detection on 
 ## Project Structure
 
 The project structure is as follows:
-.
+`.
 ├── LI13
 │   ├── images
 │   ├── result.json
