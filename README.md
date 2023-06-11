@@ -11,6 +11,7 @@ The project structure is as follows:
 │   ├── result.json
 ├── main.py
 └── detection.py
+`
 
 - The `LI13` directory contains the images folder and `result.json` file, which were generated in Label Studio when exporting the project in COCO format.
 - The `main.py` file is responsible for training the object detection model from scratch.
