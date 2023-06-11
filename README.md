@@ -5,7 +5,8 @@ This project aims to train a deep learning model to perform object detection on 
 ## Project Structure
 
 The project structure is as follows:
-`.
+.
+
 ├── LI13
 
 │   ├── images
@@ -15,7 +16,6 @@ The project structure is as follows:
 ├── main.py
 
 └── detection.py
-`
 
 - The `LI13` directory contains the images folder and `result.json` file, which were generated in Label Studio when exporting the project in COCO format.
 - The `main.py` file is responsible for training the object detection model from scratch.
